@@ -1,0 +1,27 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="Http_Server" GeneratedClassName="Config">
+  <Profiles />
+  <Settings>
+    <Setting Name="IP_int" Type="System.String" Scope="User">
+      <Value Profile="(Default)">10.0.0.0</Value>
+    </Setting>
+    <Setting Name="Port_int" Type="System.Decimal" Scope="User">
+      <Value Profile="(Default)">9800</Value>
+    </Setting>
+    <Setting Name="Timout_int" Type="System.Decimal" Scope="User">
+      <Value Profile="(Default)">10</Value>
+    </Setting>
+    <Setting Name="Root_string" Type="System.String" Scope="User">
+      <Value Profile="(Default)">E:\Emulerr\site</Value>
+    </Setting>
+    <Setting Name="AutoIp_checked" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="Max_con" Type="System.Decimal" Scope="User">
+      <Value Profile="(Default)">10</Value>
+    </Setting>
+    <Setting Name="Autopath_checked" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
